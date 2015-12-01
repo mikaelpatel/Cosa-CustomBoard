@@ -1,0 +1,2 @@
+#define COSA_CUSTOM_BOARD
+#define VENDOR_PRODUCT
