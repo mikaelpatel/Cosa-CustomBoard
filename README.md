@@ -29,8 +29,8 @@ product family.
 5. Modify variants/VENDOR/PRODUCT files; Board.h, Board.hh,
 Board.map. The example files are for a breadboard ATmega328P. See the
 Cosa/Boards for other examples (and supported AVR MCUs).
-6. Modify boards.txt; each board should properties for the build in
-the Arduino IDE. See Cosa boards.txt for further examples.
+6. Modify boards.txt; each board should have properties for the build
+in the Arduino IDE. See Cosa boards.txt for further examples.
 
 
 

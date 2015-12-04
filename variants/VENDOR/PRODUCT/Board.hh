@@ -18,8 +18,8 @@
  * This file is part of the Arduino Che Cosa project.
  */
 
-#ifndef VENDOR_PRODUCT_HH
-#define VENDOR_PRODUCT_HH
+#ifndef COSA_VENDOR_PRODUCT_HH
+#define COSA_VENDOR_PRODUCT_HH
 
 /* This board is based on ATmega328P */
 #define BOARD_ATMEGA328P
